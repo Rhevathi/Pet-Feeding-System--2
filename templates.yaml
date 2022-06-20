@@ -1,0 +1,7 @@
+// Response templates for Alexa skill endpoint. Put this in the same folder as petcenter.py, and don't rename it.
+
+welcome: Welcome to Pet Center ! What would you like to do ?
+feed_response: Doing it right now !
+play_response: I'll give your {{pet_type}} a good time !
+bye: Goodbye
+help: You can ask pet center feed my dog, or pet center play with my kitty or, you can say exit. What can I help you with?

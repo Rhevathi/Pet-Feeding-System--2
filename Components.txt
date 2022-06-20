@@ -1,0 +1,14 @@
+1. Arduino Nano R3 - 1 no
+2. Espressif ESP8266 ESP-01 -1 no
+3. SG90 Micro-Servo motor - 2 no
+4. Pan/Tilt Camera Module - 1 no
+5. RobotGeek Relay - 1 no
+6. 5 mW Red dot laser module - 1 no
+7. 3 V regulator 
+8. FT232RL USB -Serial Converter
+
+APPS REQUIRED :
+1. Arduino IDE
+2. Amazon Alexa Skills Kit
+3. Google compute engine
+4. Eclipse IoT Broker
